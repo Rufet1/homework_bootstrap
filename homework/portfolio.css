@@ -1,0 +1,30 @@
+.About{
+
+    height: 700px;
+}
+
+.imga {
+
+    width: 285px;
+    padding: 15px;
+}
+
+.yasil {
+
+    color: white;
+    background-color: #00B8A5;
+    width: 254px;
+    top: 319px;
+    left: 245px;
+    height: 63px;
+    position: absolute;
+    z-index: 50;
+    text-align: center;
+    font-size: 26px;
+
+}
+
+.abs {
+
+    position: fixed;
+}
